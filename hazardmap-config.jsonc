@@ -3,7 +3,7 @@
   "prefecture": "東京都",
   
   // 市区町村
-  "city": "八王子市",
+  "city": "練馬区",
   
   // ハザードマップポータルサイトで提供されているデータ。
   // 不要な要素（"{}"で囲まれる単位）を削除してください。
@@ -67,16 +67,6 @@
     {
       "name": "急傾斜地崩壊危険箇所",
       "url": "https://disaportaldata.gsi.go.jp/raster/05_kyukeisyachihoukai/{z}/{x}/{y}.png",
-      "attribution": "<a href=\"https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html\">ハザードマップポータルサイト</a>"
-    },
-    {
-      "name": "地すべり危険箇所",
-      "url": "https://disaportaldata.gsi.go.jp/raster/05_jisuberikikenkasyo/{z}/{x}/{y}.png",
-      "attribution": "<a href=\"https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html\">ハザードマップポータルサイト</a>"
-    },
-    {
-      "name": "雪崩危険箇所",
-      "url": "https://disaportaldata.gsi.go.jp/raster/05_nadarekikenkasyo/{z}/{x}/{y}.png",
       "attribution": "<a href=\"https://disaportal.gsi.go.jp/hazardmap/copyright/opendata.html\">ハザードマップポータルサイト</a>"
     }
   ]
